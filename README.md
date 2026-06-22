@@ -19,7 +19,7 @@ A full-stack Employee Management System built using **Python, Flask, MySQL, Boot
 
 ## Add Employee
 
-![Add Employee](screenshots/add_employees.png)
+![Add Employee](screenshots/add_employee.png)
 
 ## REST API Output
 
