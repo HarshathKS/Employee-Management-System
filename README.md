@@ -3,6 +3,27 @@
 A full-stack Employee Management System built using **Python, Flask, MySQL, Bootstrap, and Pandas**. The application provides secure employee record management with authentication, CRUD operations, dashboard analytics, search functionality, REST API integration, and Excel export capabilities.
 
 ---
+# Screenshots
+
+## Login Page
+
+![Login Page](screenshots/login.png)
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+## Employee Directory
+
+![Employee Directory](screenshots/employees.png)
+
+## Add Employee
+
+![Add Employee](screenshots/add_employees.png)
+
+## REST API Output
+
+![API Output](screenshots/api_employees.png)
 
 # Features
 

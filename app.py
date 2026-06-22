@@ -18,8 +18,8 @@ app.secret_key = "employee_secret_key"
 
 # MySQL Configuration
 app.config['MYSQL_HOST'] = 'localhost'
-app.config['MYSQL_USER'] = 'AddYourUsername'
-app.config['MYSQL_PASSWORD'] = 'AddYourPassword'
+app.config['MYSQL_USER'] = 'root'
+app.config['MYSQL_PASSWORD'] = 'Harshath@123'
 app.config['MYSQL_DB'] = 'employee_management'
 
 mysql = MySQL(app)
